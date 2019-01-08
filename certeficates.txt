@@ -1,0 +1,10 @@
+course 1:https://www.coursera.org/account/accomplishments/certificate/6FFFD9LZJS5P
+course 2:https://www.coursera.org/account/accomplishments/certificate/VKST688EUMGQ
+course 3:https://www.coursera.org/account/accomplishments/certificate/VSNGBGTSN579
+course 4:https://www.coursera.org/account/accomplishments/certificate/9TY7QWQBUUV3
+course 5:https://www.coursera.org/account/accomplishments/certificate/CNHZGU29FEG6
+course 6:https://www.coursera.org/account/accomplishments/certificate/2VZG62KBTE9R
+course 7:https://www.coursera.org/account/accomplishments/certificate/WGHAGV8RYUC6
+course 8:https://www.coursera.org/account/accomplishments/certificate/8LNSBBPCFMJW
+course 9:https://www.coursera.org/account/accomplishments/certificate/6CFE6H64MPJG
+capstone:
