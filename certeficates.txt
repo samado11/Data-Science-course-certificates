@@ -8,3 +8,4 @@ course 7:https://www.coursera.org/account/accomplishments/certificate/WGHAGV8RYU
 course 8:https://www.coursera.org/account/accomplishments/certificate/8LNSBBPCFMJW
 course 9:https://www.coursera.org/account/accomplishments/certificate/6CFE6H64MPJG
 capstone:https://www.coursera.org/account/accomplishments/certificate/Y5ZJSBEZJRBQ
+ٍSpecialization certificate:https://www.coursera.org/account/accomplishments/specialization/certificate/K3MDCGA2YXS9
